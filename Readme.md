@@ -1,4 +1,4 @@
-# Price & Inventory Auditor Pro
+# Discontinued Checker
 
 Small Tkinter + pandas tool to compare Website, Everest, and Discontinued spreadsheets to identify discontinued parts that are still active on both systems.
 
